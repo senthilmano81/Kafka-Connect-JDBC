@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.confluent</groupId>
+  <artifactId>confluent-log4j2-extensions</artifactId>
+  <versioning>
+    <versions>
+      <version>6.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200718221828</lastUpdated>
+  </versioning>
+</metadata>

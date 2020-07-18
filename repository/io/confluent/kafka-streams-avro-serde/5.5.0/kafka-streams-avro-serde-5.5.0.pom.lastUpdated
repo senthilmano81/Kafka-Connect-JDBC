@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 02:54:36 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243476096
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact io.confluent\:kafka-streams-avro-serde\:pom\:5.5.0 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/io/confluent/kafka-streams-avro-serde/5.5.0/kafka-streams-avro-serde-5.5.0.pom. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.lastUpdated=1594243476302

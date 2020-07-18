@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 02:54:39 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243479326
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594243479642
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact org.eclipse.ee4j\:project\:pom\:1.0.5 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/org/eclipse/ee4j/project/1.0.5/project-1.0.5.pom. Error code 401, Unauthorized

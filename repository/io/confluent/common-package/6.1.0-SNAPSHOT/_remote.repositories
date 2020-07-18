@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 19 03:48:35 IST 2020
+common-package-6.1.0-SNAPSHOT.pom>=
+common-package-6.1.0-SNAPSHOT-tests.jar>=
+common-package-6.1.0-SNAPSHOT-package.zip>=
+common-package-6.1.0-SNAPSHOT-package.tar.gz>=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 19 04:07:14 IST 2020
+sqlite-jdbc-3.25.2-sources.jar>central=
+sqlite-jdbc-3.25.2.jar>central=
+sqlite-jdbc-3.25.2.pom>central=

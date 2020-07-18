@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 02:54:40 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243479824
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594243480175
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-bom\:pom\:2.10.2.20200130 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/com/fasterxml/jackson/jackson-bom/2.10.2.20200130/jackson-bom-2.10.2.20200130.pom. Error code 401, Unauthorized

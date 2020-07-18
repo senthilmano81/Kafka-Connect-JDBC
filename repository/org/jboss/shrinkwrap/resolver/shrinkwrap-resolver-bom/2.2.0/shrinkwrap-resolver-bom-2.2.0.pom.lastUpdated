@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 02:55:32 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243531393
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594243532275
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:2.2.0 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+https\://jitpack.io/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594243531875
+https\://jitpack.io/.lastUpdated=1594243531957

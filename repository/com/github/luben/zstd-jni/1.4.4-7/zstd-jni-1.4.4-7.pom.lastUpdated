@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 02:54:56 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243495795
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594243496442
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact com.github.luben\:zstd-jni\:pom\:1.4.4-7 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/com/github/luben/zstd-jni/1.4.4-7/zstd-jni-1.4.4-7.pom. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594243496080

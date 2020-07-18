@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:12:45 IST 2020
+kafka-streams-2.5.0.pom>central=
+kafka-streams-2.5.0.jar>central=
+kafka-streams-2.5.0-sources.jar>central=
+kafka-streams-2.5.0-test.jar>central=

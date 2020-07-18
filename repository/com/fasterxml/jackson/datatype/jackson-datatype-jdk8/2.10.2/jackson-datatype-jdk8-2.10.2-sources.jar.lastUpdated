@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:13:14 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594244592994
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594244594388
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact com.fasterxml.jackson.datatype\:jackson-datatype-jdk8\:jar\:sources\:2.10.2 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.10.2/jackson-datatype-jdk8-2.10.2-sources.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594244593369

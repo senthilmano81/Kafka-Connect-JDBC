@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:07:21 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243945199
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594244241713
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact io.github.classgraph\:classgraph\:jar\:4.8.21 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/io/github/classgraph/classgraph/4.8.21/classgraph-4.8.21.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594243982551

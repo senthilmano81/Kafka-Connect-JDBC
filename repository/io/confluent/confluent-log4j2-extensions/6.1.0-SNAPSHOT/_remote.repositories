@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 19 03:48:28 IST 2020
+confluent-log4j2-extensions-6.1.0-SNAPSHOT-tests.jar>=
+confluent-log4j2-extensions-6.1.0-SNAPSHOT.jar>=
+confluent-log4j2-extensions-6.1.0-SNAPSHOT.pom>=
+confluent-log4j2-extensions-6.1.0-SNAPSHOT-sources.jar>=

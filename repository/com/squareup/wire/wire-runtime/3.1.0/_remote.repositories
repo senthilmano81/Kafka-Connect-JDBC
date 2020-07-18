@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:17:58 IST 2020
+wire-runtime-3.1.0.jar>central=
+wire-runtime-3.1.0-sources.jar>central=
+wire-runtime-3.1.0.pom>central=

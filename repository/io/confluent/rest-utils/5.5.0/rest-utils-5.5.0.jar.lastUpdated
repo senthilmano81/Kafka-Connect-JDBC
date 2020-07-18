@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:03:02 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243945953
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact io.confluent\:rest-utils\:jar\:5.5.0 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/io/confluent/rest-utils/5.5.0/rest-utils-5.5.0.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.lastUpdated=1594243982774

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:21:00 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594245058863
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594245060018
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact classworlds\:classworlds\:jar\:javadoc\:1.1-alpha-2 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2-javadoc.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594245059385
+https\://repo.maven.apache.org/maven2/.error=

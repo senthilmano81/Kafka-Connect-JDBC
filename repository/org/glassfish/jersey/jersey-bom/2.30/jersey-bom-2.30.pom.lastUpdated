@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 02:54:39 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243478087
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594243479142
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact org.glassfish.jersey\:jersey-bom\:pom\:2.30 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/org/glassfish/jersey/jersey-bom/2.30/jersey-bom-2.30.pom. Error code 401, Unauthorized

@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:05:02 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243941564
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594244102877
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact jakarta.el\:jakarta.el-api\:jar\:3.0.3 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/jakarta/el/jakarta.el-api/3.0.3/jakarta.el-api-3.0.3.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594243981124

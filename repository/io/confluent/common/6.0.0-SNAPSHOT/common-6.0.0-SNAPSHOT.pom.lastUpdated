@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 19 04:02:46 IST 2020
+${confluent.maven.repo}/.error=Could not transfer artifact io.confluent\:common\:pom\:6.0.0-SNAPSHOT from/to confluent (${confluent.maven.repo})\: Cannot access ${confluent.maven.repo} with type default using the available connector factories\: BasicRepositoryConnectorFactory
+@default-confluent-${confluent.maven.repo}/.lastUpdated=1595111566094

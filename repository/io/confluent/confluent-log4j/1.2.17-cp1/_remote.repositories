@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 19 04:07:57 IST 2020
+confluent-log4j-1.2.17-cp1-sources.jar>central=
+confluent-log4j-1.2.17-cp1.jar>central=
+confluent-log4j-1.2.17-cp1.pom>central=

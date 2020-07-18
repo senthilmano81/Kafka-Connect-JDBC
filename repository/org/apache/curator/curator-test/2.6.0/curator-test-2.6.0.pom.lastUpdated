@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:01:49 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243908863
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594243909885
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact org.apache.curator\:curator-test\:pom\:2.6.0 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/org/apache/curator/curator-test/2.6.0/curator-test-2.6.0.pom. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594243909342

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 19 03:40:37 IST 2020
+assembly-plugin-boilerplate-6.1.0-SNAPSHOT-resources.zip>=
+assembly-plugin-boilerplate-6.1.0-SNAPSHOT.pom>=

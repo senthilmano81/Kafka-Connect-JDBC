@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:15:56 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594244754628
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594244756568
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.12 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/junit/junit/4.12/junit-4.12-sources.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594244755139

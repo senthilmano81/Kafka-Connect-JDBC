@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:08:16 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243944549
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594244214929
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact com.github.everit-org.json-schema\:org.everit.json.schema\:jar\:1.12.1 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/com/github/everit-org/json-schema/org.everit.json.schema/1.12.1/org.everit.json.schema-1.12.1.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594243982411
+https\://repo.maven.apache.org/maven2/.error=
+https\://jitpack.io/.lastUpdated=1594244296652

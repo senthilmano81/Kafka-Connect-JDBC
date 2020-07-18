@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 03:08:06 IST 2020
+@default-maven2-repo-https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.lastUpdated=1594243947628
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594244286832
+https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/.error=Could not transfer artifact com.fasterxml.jackson.jaxrs\:jackson-jaxrs-base\:jar\:2.10.2 from/to maven2-repo (https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/)\: Access denied to https\://nexus.dev.global.tesco.org/nexus/content/repositories/central/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.10.2/jackson-jaxrs-base-2.10.2.jar. Error code 401, Unauthorized
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1594243983317
